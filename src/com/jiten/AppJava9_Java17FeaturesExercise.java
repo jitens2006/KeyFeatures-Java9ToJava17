@@ -9,7 +9,7 @@ public class AppJava9_Java17FeaturesExercise {
 
 		boolean isPermEmployee;
 
-		// Java 10 Feature: Local Variable Type Inf.
+		// Java 10 Feature: Local Variable Type Infer.
 
 		// Java 9 : Immutable Collection Classes using Static Method
 		var gradePercentageMapping = Map.of("5", 25, "4", 15, "3", 10, "2", 0, "1", 0);
